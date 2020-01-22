@@ -1,5 +1,6 @@
 package fr.adefarge
 
+
 fun main() {
     val geojson: FeatureCollection = geojson {
         point { lat = 47.9; lng = 0.9 }
